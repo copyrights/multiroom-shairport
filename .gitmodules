@@ -1,0 +1,9 @@
+[submodule "shairport-sync"]
+	path = shairport-sync
+	url = https://github.com/mikebrady/shairport-sync.git
+[submodule "shairport"]
+	path = shairport
+	url = https://github.com/abrasive/shairport.git
+[submodule "forked-daapd"]
+	path = forked-daapd
+	url = https://github.com/ejurgensen/forked-daapd.git
